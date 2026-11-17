@@ -12,6 +12,7 @@
 检查环境，Node.js 为 v24.14.0，npm 为 11.9.0，git 为 2.53.0。符合项目根目录 `package.json` 中 `"node": ">=22.19.0"` 的要求。
 
 **截图 S1：**
+
 <img width="604" height="119" alt="屏幕截图 2026-11-17 113546" src="https://github.com/user-attachments/assets/55777491-017e-41d1-9705-45c08ceabd60" />
 
 
@@ -21,6 +22,7 @@
 源码已在前序作业中克隆至本地 `C:\Users\42418\pi-02\pi-hunnu-2026`。当前分支为 `main`，且 `git status` 干净无修改。提交编号为 `c3cc91632d0a1950fb122605b190233f2aa0006e`。
 
 **截图 S2：**
+
 <img width="500" height="137" alt="屏幕截图 2026-11-17 113649" src="https://github.com/user-attachments/assets/64f22db2-d94a-4657-bc61-c560e3f2834a" />
 
 
@@ -29,6 +31,7 @@
 ## 任务三 阅读配置，确认安装与编译的依据
 
 **截图 S3（分为两张图）：**
+
 <img width="503" height="101" alt="屏幕截图 2026-11-17 113752" src="https://github.com/user-attachments/assets/328c6ad2-50f8-4066-b4d2-11c6693a67b0" />
 
 <img width="169" height="49" alt="屏幕截图 2026-11-17 113800" src="https://github.com/user-attachments/assets/8db14139-a44b-4ba6-9930-f70acec3c0ad" />
@@ -44,6 +47,7 @@
 执行了 `npm install --ignore-scripts`。安装成功，总计添加了 335 个包，用时 38 秒。过程中出现了 `deprecated`（依赖弃用）和 `min-release-age` 的警告，但未影响安装结果。
 
 **截图 S4：**
+
 <img width="603" height="153" alt="屏幕截图 2026-11-17 114001" src="https://github.com/user-attachments/assets/41833e0d-ac97-4435-b3f2-11a39bb94ac1" />
 
 
@@ -53,6 +57,7 @@
 执行了 `npm run build`。构建成功后，通过 `Test-Path` 确认 `cli.js` 产物存在（返回 `True`），并运行该产物验证了版本号为 `1.5.2`。
 
 **截图 S5：**
+
 <img width="608" height="141" alt="屏幕截图 2026-11-17 114050" src="https://github.com/user-attachments/assets/c27e0784-bfb8-4f0e-ba1c-4c473155c122" />
 
 <img width="584" height="67" alt="屏幕截图 2026-11-17 114135" src="https://github.com/user-attachments/assets/7ef356ba-3fa8-406d-ba3f-c332751006c9" />
@@ -63,6 +68,7 @@
 ## 任务六 启动本地源码版本并完成一次会话
 
 **截图 S6：**
+
 <img width="588" height="95" alt="屏幕截图 2026-11-17 114457" src="https://github.com/user-attachments/assets/ea7b98d0-eb6d-4de2-8b88-8d9d695b2c22" />
 
 <img width="601" height="487" alt="屏幕截图 2026-11-17 114315" src="https://github.com/user-attachments/assets/0dc23a6f-102f-4354-8a8d-2ae79af3a8ae" />
