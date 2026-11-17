@@ -35,7 +35,7 @@
 为了验证自动更新的能力，我在 `docs/index.md` 中增加了一句“自动部署验证：这是我第二次推送后更新的内容。”，然后提交并推送到了 `main` 分支。
 - **对应提交/终端记录**：
 ![第二次推送](images/07-second-push-terminal.png)
-- **对应 Actions 运行链接**：`【去你 GitHub Actions 页面复制第二次运行的链接粘贴到这里】`
+- **对应 Actions 运行链接**：`(https://github.com/Frannie1218/software-engineering-docs/actions/runs/43836937446)`
 - **效果验证**：等待 Actions 再次变绿后，刷新线上网站，发现新增的文字已经成功生效，且不需要我手动干预任何按钮。
 ![第二次部署](images/08-actions-second-run.png)
 
