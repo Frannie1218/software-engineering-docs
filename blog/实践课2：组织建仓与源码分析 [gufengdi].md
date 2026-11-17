@@ -16,7 +16,8 @@ cd pi-hunnu-2026
 **3. 仓库信息确认 (截图 S1)**
 执行 `Get-Location`, `git remote -v`, `git branch --show-current`, `git rev-parse HEAD`, `git status --short` 的截图如下：
 
-![S1](images\S1.png)
+<img width="647" height="353" alt="S1" src="https://github.com/user-attachments/assets/84b7abdf-c814-4862-bc1b-0832fa3a3bb1" />
+
 
 *   **远端地址 (origin)**：`https://github.com/open-source-slackers/pi-hunnu-2026.git` （已确认指向小组组织仓库）
 *   **当前分支**：`main`
